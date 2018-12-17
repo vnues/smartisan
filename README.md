@@ -25,8 +25,6 @@ vue2 + vuex + vue-router + webpack + ES6 + axios + sass + flex + svg + node + mo
 
 - 如果对您有帮助，您可以点右上角 "Star" 支持一下 十分感谢!
 - 如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR
-
-admin1 密码: 123
 ```
 
 ## 目标功能
